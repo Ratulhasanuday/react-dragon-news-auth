@@ -27,7 +27,7 @@ const Register = () => {
             <Navbar></Navbar>
              <div className="mx-auto card bg-base-100  w-full max-w-sm shadow-xl">
                 <form onSubmit={handleRegister} className="card-body">
-                    <h2 className="text-3xl text-center text-sky-300">Please Login</h2>
+                    <h2 className="text-3xl text-center text-sky-300">Please Register</h2>
                     <div className="form-control">
                         <label className="label">
                             <span className="label-text">Name</span>
